@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h3 {
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
